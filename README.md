@@ -1,7 +1,3 @@
-Certainly! Here's a summary for the README file on GitHub:
-
----
-
 # Krypton AI Assistant
 
 Krypton AI Assistant is a Python-based virtual assistant designed to perform various tasks using voice commands. It leverages speech recognition, natural language processing, and several external libraries to provide functionalities such as retrieving the current time and date, searching Wikipedia, sending emails, browsing the web, taking screenshots, monitoring CPU performance, and more.
